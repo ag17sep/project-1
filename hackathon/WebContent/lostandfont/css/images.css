@@ -1,0 +1,12 @@
+#tohide,#h,#del{
+display: none;
+}
+
+.upload{
+  border-radius: 13px;
+  /*border-color: red;*/
+  color: white;
+  background-color: blue;
+  width: 100px;
+  height: 30px;
+}
